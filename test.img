@@ -1,0 +1,417 @@
+#Imagination 2.0 Slideshow Project - http://imagination.sf.net
+
+[slideshow settings]
+video format=360
+background color=0;0;0;
+distort images=true
+number of slides=27
+
+[slide 1]
+filename=/home/alectramell/Desktop/sky/ab.jpg
+angle=0
+duration=3
+transition_id=60
+speed=1
+no_points=0
+anim id=0
+anim duration=1
+text pos=4
+placing=0
+font=Sans 12
+font color=0;0.39954222934309913;1;1;
+font bgcolor=1;1;1;1;
+
+[slide 2]
+filename=/home/alectramell/Desktop/sky/ac.jpg
+angle=0
+duration=3
+transition_id=61
+speed=1
+no_points=0
+anim id=0
+anim duration=1
+text pos=4
+placing=0
+font=Sans 12
+font color=0;0;0;1;
+font bgcolor=1;1;1;1;
+
+[slide 3]
+filename=/home/alectramell/Desktop/sky/ad.jpg
+angle=0
+duration=3
+transition_id=60
+speed=1
+no_points=0
+anim id=0
+anim duration=1
+text pos=4
+placing=0
+font=Sans 12
+font color=0;0;0;1;
+font bgcolor=1;1;1;1;
+
+[slide 4]
+filename=/home/alectramell/Desktop/sky/ae.jpg
+angle=0
+duration=5
+transition_id=40
+speed=4
+no_points=0
+anim id=0
+anim duration=1
+text pos=4
+placing=0
+font=Sans 12
+font color=0;0;0;1;
+font bgcolor=1;1;1;1;
+
+[slide 5]
+filename=/home/alectramell/Desktop/sky/ah.jpg
+angle=0
+duration=3
+transition_id=1
+speed=1
+no_points=0
+anim id=0
+anim duration=1
+text pos=4
+placing=0
+font=Sans 12
+font color=0;0;0;1;
+font bgcolor=1;1;1;1;
+
+[slide 6]
+filename=/home/alectramell/Desktop/sky/ai.jpg
+angle=0
+duration=3
+transition_id=3
+speed=1
+no_points=0
+anim id=0
+anim duration=1
+text pos=4
+placing=0
+font=Sans 12
+font color=0;0;0;1;
+font bgcolor=1;1;1;1;
+
+[slide 7]
+filename=/home/alectramell/Desktop/sky/aj.jpg
+angle=0
+duration=3
+transition_id=4
+speed=1
+no_points=0
+anim id=0
+anim duration=1
+text pos=4
+placing=0
+font=Sans 12
+font color=0;0;0;1;
+font bgcolor=1;1;1;1;
+
+[slide 8]
+filename=/home/alectramell/Desktop/sky/al.jpg
+angle=0
+duration=5
+transition_id=46
+speed=4
+no_points=0
+anim id=0
+anim duration=1
+text pos=4
+placing=0
+font=Sans 12
+font color=0;0;0;1;
+font bgcolor=1;1;1;1;
+
+[slide 9]
+filename=/home/alectramell/Desktop/sky/am.jpg
+angle=0
+duration=3
+transition_id=35
+speed=1
+no_points=0
+anim id=0
+anim duration=1
+text pos=4
+placing=0
+font=Sans 12
+font color=0;0;0;1;
+font bgcolor=1;1;1;1;
+
+[slide 10]
+filename=/home/alectramell/Desktop/sky/aq.jpg
+angle=0
+duration=3
+transition_id=57
+speed=1
+no_points=0
+anim id=0
+anim duration=1
+text pos=4
+placing=0
+font=Sans 12
+font color=0;0;0;1;
+font bgcolor=1;1;1;1;
+
+[slide 11]
+filename=/home/alectramell/Desktop/sky/ar.jpg
+angle=0
+duration=3
+transition_id=41
+speed=1
+no_points=0
+anim id=0
+anim duration=1
+text pos=4
+placing=0
+font=Sans 12
+font color=0;0;0;1;
+font bgcolor=1;1;1;1;
+
+[slide 12]
+filename=/home/alectramell/Desktop/sky/as.jpg
+angle=0
+duration=3
+transition_id=49
+speed=4
+no_points=0
+anim id=0
+anim duration=1
+text pos=4
+placing=0
+font=Sans 12
+font color=0;0;0;1;
+font bgcolor=1;1;1;1;
+
+[slide 13]
+filename=/home/alectramell/Desktop/sky/at.jpg
+angle=0
+duration=3
+transition_id=52
+speed=1
+no_points=0
+anim id=0
+anim duration=1
+text pos=4
+placing=0
+font=Sans 12
+font color=0;0;0;1;
+font bgcolor=1;1;1;1;
+
+[slide 14]
+filename=/home/alectramell/Desktop/sky/av.jpg
+angle=0
+duration=2
+transition_id=3
+speed=1
+no_points=0
+anim id=0
+anim duration=1
+text pos=4
+placing=0
+font=Sans 12
+font color=0;0;0;1;
+font bgcolor=1;1;1;1;
+
+[slide 15]
+filename=/home/alectramell/Desktop/sky/aw.jpg
+angle=0
+duration=2
+transition_id=26
+speed=1
+no_points=0
+anim id=0
+anim duration=1
+text pos=4
+placing=0
+font=Sans 12
+font color=0;0;0;1;
+font bgcolor=1;1;1;1;
+
+[slide 16]
+filename=/home/alectramell/Desktop/sky/az.jpg
+angle=0
+duration=3
+transition_id=20
+speed=1
+no_points=0
+anim id=0
+anim duration=1
+text pos=4
+placing=0
+font=Sans 12
+font color=0;0;0;1;
+font bgcolor=1;1;1;1;
+
+[slide 17]
+filename=/home/alectramell/Desktop/sky/bc.jpg
+angle=0
+duration=3
+transition_id=48
+speed=4
+no_points=0
+anim id=0
+anim duration=1
+text pos=4
+placing=0
+font=Sans 12
+font color=0;0;0;1;
+font bgcolor=1;1;1;1;
+
+[slide 18]
+filename=/home/alectramell/Desktop/sky/bd.jpg
+angle=0
+duration=5
+transition_id=53
+speed=1
+no_points=0
+anim id=0
+anim duration=1
+text pos=4
+placing=0
+font=Sans 12
+font color=0;0;0;1;
+font bgcolor=1;1;1;1;
+
+[slide 19]
+filename=/home/alectramell/Desktop/sky/be.jpg
+angle=0
+duration=3
+transition_id=61
+speed=1
+no_points=0
+anim id=0
+anim duration=1
+text pos=4
+placing=0
+font=Sans 12
+font color=0;0;0;1;
+font bgcolor=1;1;1;1;
+
+[slide 20]
+filename=/home/alectramell/Desktop/sky/bf.jpg
+angle=0
+duration=3
+transition_id=71
+speed=1
+no_points=0
+anim id=0
+anim duration=1
+text pos=4
+placing=0
+font=Sans 12
+font color=0;0;0;1;
+font bgcolor=1;1;1;1;
+
+[slide 21]
+filename=/home/alectramell/Desktop/sky/bh.jpg
+angle=0
+duration=3
+transition_id=24
+speed=1
+no_points=0
+anim id=0
+anim duration=1
+text pos=4
+placing=0
+font=Sans 12
+font color=0;0;0;1;
+font bgcolor=1;1;1;1;
+
+[slide 22]
+filename=/home/alectramell/Desktop/sky/bi.jpg
+angle=0
+duration=3
+transition_id=25
+speed=1
+no_points=0
+anim id=0
+anim duration=1
+text pos=4
+placing=0
+font=Sans 12
+font color=0;0;0;1;
+font bgcolor=1;1;1;1;
+
+[slide 23]
+filename=/home/alectramell/Desktop/sky/bj.jpg
+angle=0
+duration=3
+transition_id=1
+speed=1
+no_points=0
+anim id=0
+anim duration=1
+text pos=4
+placing=0
+font=Sans 12
+font color=0;0;0;1;
+font bgcolor=1;1;1;1;
+
+[slide 24]
+filename=/home/alectramell/Desktop/sky/bk.jpg
+angle=0
+duration=5
+transition_id=57
+speed=1
+no_points=0
+anim id=0
+anim duration=1
+text pos=4
+placing=0
+font=Sans 12
+font color=0;0;0;1;
+font bgcolor=1;1;1;1;
+
+[slide 25]
+filename=/home/alectramell/Desktop/sky/bm.jpg
+angle=0
+duration=3
+transition_id=10
+speed=1
+no_points=0
+anim id=0
+anim duration=1
+text pos=4
+placing=0
+font=Sans 12
+font color=0;0;0;1;
+font bgcolor=1;1;1;1;
+
+[slide 26]
+filename=/home/alectramell/Desktop/sky/bn.jpg
+angle=0
+duration=3
+transition_id=8
+speed=1
+no_points=0
+anim id=0
+anim duration=1
+text pos=4
+placing=0
+font=Sans 12
+font color=0;0;0;1;
+font bgcolor=1;1;1;1;
+
+[slide 27]
+filename=/home/alectramell/Desktop/sky/bo.jpg
+angle=0
+duration=5
+transition_id=43
+speed=8
+no_points=0
+text=I love you guys ;)
+anim id=0
+anim duration=1
+text pos=4
+placing=0
+font=Comic Sans MS Bold 32
+font color=1;1;1;1;
+font bgcolor=0;0;0;1;
+
+[music]
+number=1
+music_1=/home/alectramell/Desktop/plist/good_grief.mp3
